@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Brain Trainer</string>
+    <string name="user"> Username </string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Enter Username</string>
+    <string name="go_button"> GO!!</string>
+    <string name="optionc">  C</string>
+    <string name="optiond">D</string>
+    <string name="time">25</string>
+    <string name="score">0/1</string>
+    <string name="question">Question</string>
+    <string name="optiona">A</string>
+    <string name="optionb">B</string>
+    <string name="correct">Correct!</string>
+    <string name="play">PLAY AGAIN</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="final_score"> The Score is: </string>
+    <string name="final_score1">0/8</string>
+    <string name="_10_secs">10 Secs</string>
+    <string name="_15_secs">15 Secs</string>
+    <string name="_20_secs">20 Secs</string>
+    <string name="_25_secs">25 Secs</string>
+    <string name="past_scores">Previous Scores</string>
+    <string name="todo">TODO</string>
+
+</resources>
